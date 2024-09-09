@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @jcbo23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# boas vindas ao meu perfil
+ 
+ Meu nome é Cristiano Ronaldo
+- Estou estudando tecnologia pela Alura Star
+- Estou me desenvolvendo na linguagem JavaScript
+- Urilizo este espaço para minha organização e comoartilhamento dos projetos desenvolvidos
+- 
+  ### Você pode entrar em contato comigo
 
-<!---
-jcbo23/jcbo23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  0000113815989XSP@al.educacao.sp.gov.br
